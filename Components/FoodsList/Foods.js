@@ -1,14 +1,14 @@
 export default [{
-    name: 'Autumn Soup',
+    name: 'Autumn Carry',
     tagline: 'Order Online for',
     price: '$420',
-    image: require('../../assets/foods/AutumnSoup.jpg'),
+    image: require('../../assets/foods/meal-carry.jpeg'),
     description: ' If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated',
 }, {
-    name: 'Chicken Sandwich',
+    name: 'Fish-Carry',
     tagline: 'Order Online for',
     price: '$399',
-    image: require('../../assets/foods/ChickenSandwich.jpg'),
+    image: require('../../assets/foods/fish-carry.jpeg'),
     description: ' If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated',
 }, {
     name: 'EggItem',
@@ -17,28 +17,28 @@ export default [{
     image: require('../../assets/foods/EggItem.jpg'),
     description: ' If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated',
 }, {
-    name: 'Meal with salmon and zucchini',
+    name: 'Meal with Noodles',
     tagline: 'Order Online for',
     price: '$220',
-    image: require('../../assets/foods/MealWithSalmonAndZucchini.jpg'),
+    image: require('../../assets/foods/noodles.jpeg'),
     description: ' If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated',
 }, {
     name: 'Little Bowl',
     tagline: 'Order Online for',
     price: '$320',
-    image: require('../../assets/foods/LittleBowl.jpg'),
+    image: require('../../assets/foods/oil-meal.jpeg'),
     description: ' If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated',
 }, {
-    name: 'Mediterranean Salad',
+    name: 'Pizza',
     tagline: 'Order Online for',
     price: '$350',
-    image: require('../../assets/foods/MediterraneanSalad.jpg'),
+    image: require('../../assets/foods/pijja.jpeg'),
     description: ' If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated',
 }, {
     name: 'Pancake Stack',
     tagline: 'Order Online for',
     price: '$320',
-    image: require('../../assets/foods/PancakeStack.jpg'),
+    image: require('../../assets/foods/set-item.jpeg'),
     description: ' If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated',
 }, {
     name: 'Vegetable Items',
@@ -50,6 +50,6 @@ export default [{
     name: 'Yogurt Bowl',
     tagline: 'Order Online for',
     price: '$550',
-    image: require('../../assets/foods/YogurtBowl.jpg'),
+    image: require('../../assets/foods/setMeals.jpeg.jpg'),
     description: ' If you use this site regularly and would like to help keep the site on the Internet, please consider donating a small sum to help pay for the hosting and bandwidth bill. There is no minimum donation, any sum is appreciated',
 }];
